@@ -9,4 +9,4 @@
   @include('includes/shop')
   <!-- end shop section -->
 
- @endsection
+ @endsection 
